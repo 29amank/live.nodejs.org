@@ -2,7 +2,7 @@
 
 ## Contributing
 
-Checkout the git repo and get started:
+### Checkout the git repo and get started:
 
 ```
 npm install
@@ -16,13 +16,13 @@ pages are in `events/`
 
 If you have any questions about the events or the website log an Issue :)
 
-### Localization
+### Localization :
 
 You are welcome to translate this site to your language, especially when the event is in your country.
 
 For example, please visit [Node.js Live @ Beijing](http://live.nodejs.org/zh-CN/events/beijing.html)
 
-Follow these steps to add another language:
+### Follow these steps to add another language:
 
 1. Create a folder which names your language, such as `zh-CN`, `ja`, `de`, etc. See http://www.metamodpro.com/browser-language-codes
 2. Add your language to the beginning of build script `build.js`
