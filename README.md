@@ -2,7 +2,7 @@
 
 ## Contributing :
 
-Checkout the git repo and get started:
+## Checkout the git repo and get started:
 
 ```
 npm install
